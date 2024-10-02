@@ -1,0 +1,153 @@
+Month 1: Basics of Java and Object-Oriented Programming (OOP)
+Week 1: Introduction to Java Programming
+    • Java Basics:
+        ◦ What is Java? (History, use cases)
+        ◦ Installing Java and setting up an IDE (Eclipse/IntelliJ/VS Code)
+        ◦ First Java Program (Hello World)
+        ◦ Basic syntax (comments, keywords)
+        ◦ Data types (primitive types: int, float, double, char, boolean)
+        ◦ Variables and constants
+        ◦ Input/Output (using Scanner and System.out)
+    • Control Statements:
+        ◦ Conditional statements (if, else, switch)
+        ◦ Loops (for, while, do-while)
+Week 2: Java Fundamentals
+    • Operators:
+        ◦ Arithmetic, logical, relational, bitwise, assignment operators
+        ◦ Operator precedence
+    • Methods:
+        ◦ Defining and calling methods
+        ◦ Method overloading
+        ◦ Pass-by-value vs pass-by-reference
+        ◦ Recursion
+    • Arrays:
+        ◦ Single-dimensional arrays
+        ◦ Multi-dimensional arrays
+        ◦ Array manipulation (searching, sorting)
+Week 3: Object-Oriented Programming (OOP) Basics
+    • Classes and Objects:
+        ◦ Defining a class and creating objects
+        ◦ Instance variables, methods, and constructors
+        ◦ Access modifiers (public, private, protected)
+        ◦ Static keyword (static variables, static methods)
+    • Encapsulation:
+        ◦ Getters and Setters
+        ◦ this keyword
+    • Memory Management:
+        ◦ Stack vs heap memory
+        ◦ Garbage collection
+Week 4: More OOP Concepts
+    • Inheritance:
+        ◦ Extending classes, method overriding
+        ◦ super keyword
+    • Polymorphism:
+        ◦ Compile-time (method overloading) vs runtime polymorphism (method overriding)
+    • Abstraction:
+        ◦ Abstract classes and methods
+        ◦ Interfaces (multiple inheritance)
+        ◦ Difference between abstract class and interface
+
+Month 2: Advanced OOP, Data Structures, and Exception Handling
+Week 5: Exception Handling
+    • Basics:
+        ◦ Types of exceptions (checked, unchecked)
+        ◦ Try-catch-finally
+        ◦ Throwing exceptions
+        ◦ Creating custom exceptions
+        ◦ The throws keyword
+Week 6: Java Collections Framework (Part 1)
+    • List Interface:
+        ◦ ArrayList, LinkedList
+        ◦ Iterators and ListIterators
+        ◦ Common operations (add, remove, search, sort)
+    • Set Interface:
+        ◦ HashSet, LinkedHashSet, TreeSet
+        ◦ Uniqueness in sets, how hashing works
+Week 7: Java Collections Framework (Part 2)
+    • Map Interface:
+        ◦ HashMap, LinkedHashMap, TreeMap
+        ◦ Key-Value pairs, common operations (put, get, remove)
+    • Queue Interface:
+        ◦ PriorityQueue, Deque (ArrayDeque, LinkedList)
+        ◦ Queue operations (enqueue, dequeue)
+    • Iterating through Collections:
+        ◦ for-each, Iterator, Streams API basics
+Week 8: File I/O and String Manipulation
+    • File I/O:
+        ◦ Reading from and writing to files (FileReader, FileWriter, BufferedReader, BufferedWriter)
+        ◦ Serialization and deserialization
+    • String Manipulation:
+        ◦ String class methods (substring, charAt, indexOf, etc.)
+        ◦ StringBuilder and StringBuffer for mutable strings
+        ◦ Regular expressions (basic regex patterns)
+
+Month 3: Multithreading, Generics, and Functional Programming
+Week 9: Multithreading
+    • Basics of Multithreading:
+        ◦ Creating threads (by extending Thread class or implementing Runnable)
+        ◦ Thread lifecycle (new, runnable, waiting, terminated)
+        ◦ Synchronization and locks
+        ◦ wait(), notify(), notifyAll()
+Week 10: Advanced Multithreading
+    • Concurrency:
+        ◦ Executors framework
+        ◦ Callable and Future interfaces
+        ◦ Thread pools
+        ◦ Concurrent collections (ConcurrentHashMap, CopyOnWriteArrayList)
+Week 11: Generics and Annotations
+    • Generics:
+        ◦ Basics of generics (why generics are used)
+        ◦ Generic classes, methods, and interfaces
+        ◦ Bounded type parameters (extends, super)
+    • Annotations:
+        ◦ Built-in annotations (@Override, @Deprecated, @SuppressWarnings)
+        ◦ Custom annotations
+        ◦ Reflection basics
+Week 12: Java 8 Features – Functional Programming
+    • Lambda Expressions:
+        ◦ Syntax and basic use cases
+        ◦ Functional interfaces (Predicate, Function, etc.)
+    • Streams API:
+        ◦ Creating streams
+        ◦ Operations: filter, map, reduce
+        ◦ Parallel streams
+    • Optional Class:
+        ◦ Avoiding null pointer exceptions
+        ◦ Using Optional to handle values safely
+
+Month 4: Advanced Topics, Design Patterns, and Project Work
+Week 13: Design Patterns and Best Practices
+    • Creational Patterns:
+        ◦ Singleton, Factory, Builder patterns
+    • Structural Patterns:
+        ◦ Adapter, Decorator, Proxy
+    • Behavioral Patterns:
+        ◦ Observer, Strategy, Command
+    • SOLID Principles:
+        ◦ Single Responsibility Principle, Open-Closed Principle, etc.
+Week 14: Java Frameworks Overview
+    • JDBC (Java Database Connectivity):
+        ◦ Connecting to databases
+        ◦ CRUD operations with JDBC
+    • Introduction to Spring Framework:
+        ◦ Basics of Dependency Injection (DI) and Inversion of Control (IoC)
+    • Introduction to Hibernate:
+        ◦ Basics of ORM (Object-Relational Mapping)
+Week 15: Build Tools, Testing, and Best Practices
+    • Build Tools:
+        ◦ Maven/Gradle
+        ◦ Managing dependencies
+    • Testing in Java:
+        ◦ JUnit basics
+        ◦ Writing unit tests, test-driven development (TDD)
+        ◦ Mockito for mocking objects
+Week 16: Final Project
+    • Final Capstone Project:
+        ◦ Choose a project that incorporates various aspects of Java: OOP, multithreading, collections, file I/O, and design patterns.
+        ◦ This project can be something like a small web service, a desktop application, or a command-line tool.
+
+Summary
+    • Month 1: Java Basics and OOP principles
+    • Month 2: Advanced OOP, collections, and exception handling
+    • Month 3: Multithreading, Generics, and Java 8 features
+    • Month 4: Advanced topics, design patterns, and project
