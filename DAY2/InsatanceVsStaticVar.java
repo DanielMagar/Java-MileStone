@@ -33,7 +33,7 @@ public class InsatanceVsStaticVar {
         obj1.instanceVar++;
 
         // Check values in obj2
-        System.out.println("Static Var in obj2: " + InsatanceVsStaticVar.staticVar);     // Output: 1 (shared value)
+        System.out.println("Static Var in obj2: " + obj1.staticVar);     // Output: 1 (shared value)
         System.out.println("Instance Var in obj2: " + obj2.instanceVar); // Output: 0 (separate value)
     }
 }
