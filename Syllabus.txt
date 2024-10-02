@@ -7,7 +7,7 @@ Week 1: Introduction to Java Programming
         ◦ Basic syntax (comments, keywords)
         ◦ Data types (primitive types: int, float, double, char, boolean)
         ◦ Variables and constants
-        ◦ Widening Type Casting (Type Casting)
+        ◦ Type Casting (Widening Type Casting and Narrowing Type Casting)
         ◦ Input/Output (using Scanner and System.out)
     • Control Statements:
         ◦ Conditional statements (if, else, switch)
